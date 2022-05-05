@@ -1,5 +1,5 @@
-Hi 👋 My name is Sebastiaan Janssen
-===================================
+Hi 👋 my name is Sebastiaan Janssen
+====================================
 
 Developer Advocate 🥑 at Umbraco
 --------------------------------
