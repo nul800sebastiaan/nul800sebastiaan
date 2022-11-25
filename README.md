@@ -9,5 +9,3 @@ From fostering contributions to learning what makes our developer community tick
 - 🌍 I'm based in Copenhagen, Denmark
 - 🖥️ See my portfolio at [Polywork](http://www.polywork.com/cultiv)
 - 🐘 You can find me on Mastodon <a rel="me" href="https://cultiv.social/@sebastiaan">https://cultiv.social/@sebastiaan</a>
-
-![Sebastiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nul800sebastiaan&show_icons=true)
