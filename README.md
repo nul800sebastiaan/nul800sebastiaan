@@ -11,4 +11,10 @@ From fostering contributions to learning what makes our developer community tick
 - 🖥️ See my portfolio at [Polywork](http://www.polywork.com/cultiv)
 - ℹ️ _I am (begrudgingly) <a href="https://www.linkedin.com/in/cultiv/">on LinkedIn</a> to be able connect with people (thanks Elon.. 🙄)_
 
+Talk to me about:
+- Community building
+- Open source
+- Pull requests
+- Diversity, equity and inclusion
+
 ![Sebastiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nul800sebastiaan&show_icons=true&theme=transparent)
