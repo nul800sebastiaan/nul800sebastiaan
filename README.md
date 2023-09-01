@@ -17,6 +17,6 @@ Talk to me about my interests:
 - Pull requests
 - Diversity, equity and inclusion
 - Accessibility
-- Software and the environment
+- The climate
 
 ![Sebastiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nul800sebastiaan&show_icons=true&theme=transparent)
