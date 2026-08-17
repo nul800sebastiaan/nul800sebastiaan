@@ -19,5 +19,3 @@ Talk to me about my interests:
 - Diversity, equity and inclusion
 - Accessibility
 - Sustainability
-
-![Sebastiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nul800sebastiaan&show_icons=true&theme=transparent)
